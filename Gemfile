@@ -50,5 +50,5 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'mysql2',          '~> 0.3.18', :platform => :ruby
-gem 'thinking-sphinx', '~> 3.2.0'
+# gem 'mysql2',          '~> 0.3.18', :platform => :ruby
+# gem 'thinking-sphinx', '~> 3.2.0'
